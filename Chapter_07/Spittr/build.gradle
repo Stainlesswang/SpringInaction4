@@ -19,7 +19,7 @@ dependencies {
     testCompile "org.springframework:spring-test:$springVersion"
     testCompile "org.mockito:mockito-core:$mockitoVersion"
     testCompile "org.hamcrest:hamcrest-library:$hamcrestVersion"
-    classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.2.30"
+//    classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.2.30"
 
 }
 

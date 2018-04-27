@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Spittr.iml" filepath="$PROJECT_DIR$/Spittr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spittr-Multipart.iml" filepath="$PROJECT_DIR$/.idea/modules/Spittr-Multipart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spittr-Multipart_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Spittr-Multipart_main.iml" group="Spittr-Multipart" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spittr-Multipart_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Spittr-Multipart_test.iml" group="Spittr-Multipart" />
     </modules>
   </component>
 </project>
