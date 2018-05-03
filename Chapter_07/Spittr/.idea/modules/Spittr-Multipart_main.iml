@@ -7,7 +7,7 @@
     <facet type="web" name="Web Gradle : spittr.war">
       <configuration>
         <webroots>
-          <root url="file://D:\WorkSpace\SpringInaction4\Chapter_07\Spittr\src\main\webapp" relative="/" />
+          <root url="file://D:\dev\workspace\SpringInaction4\Chapter_07\Spittr\src\main\webapp" relative="/" />
         </webroots>
       </configuration>
     </facet>
