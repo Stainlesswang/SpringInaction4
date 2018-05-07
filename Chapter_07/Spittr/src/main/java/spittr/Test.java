@@ -1,8 +1,12 @@
 package spittr;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class Test {
     public static void main(String[] args)
             throws Exception {
+        Map map=new HashMap();
         try {
             try {
                 throw new Sn();
